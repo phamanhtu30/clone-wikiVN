@@ -1,0 +1,37 @@
+table, .b, .c, .D {
+    width: 100%;
+    border: 1px solid;
+    }
+    .p1 {
+    height: 100px;
+}
+.p2 {
+    width: 10%;
+    height: calc(100% - 10% - 1px);
+}
+.b, .D {
+    border: none;
+}
+.b2 {
+    width: 5%;
+}
+.b3 {
+    width: 70%;
+}
+.c1, .p1, .c3, .D0 {
+    width: 100%;
+}
+.c2 {
+    width: 50%;
+}
+.c4, .D1, .D2 {
+    width: 49%;
+}
+.D {
+    height: 800px;
+}
+.D1, .D2 {
+    border: 1px solid;
+}
+.D1 {
+}
